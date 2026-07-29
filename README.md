@@ -1,4 +1,4 @@
-This repository contains the code and instructions for replicating the experiments presented in the paper **Classifying Rodent Behaviors One Frame at a Time: A CNN-Based Method**.
+This repository contains the code and instructions for replicating the experiments presented in the paper **[Classifying Rodent Behaviors One Frame at a Time: A CNN-Based Method](https://doi.org/10.1016/j.ecoinf.2026.103927)**.
 
 ## Main Requirements
 
@@ -64,3 +64,20 @@ Optional dependencies for video models and DINOv3 are only required for the corr
 ## Notes
 
 The complete environment may vary depending on the operating system, CUDA version, GPU driver, and PyTorch/TorchVision compatibility. Therefore, the listed requirements focus on the core dependencies used in the experiments, while PyTorchVideo and DINOv3 are kept as separate optional components.
+
+## Citation
+
+If you find this repository useful in your research, please consider citing the following article:
+
+```bibtex
+@article{noshahri2026rodent,
+  title   = {Classifying rodent behaviors one frame at a time: A CNN-based method},
+  author = {Ehsan Noshahri and Andres Molares-Ulloa and Carlota Fraga-Seijas and Alejandro Puente-Castro and Alvaro Rodriguez},
+  journal = {Ecological Informatics},
+  volume  = {97},
+  pages   = {103927},
+  year    = {2026},
+  issn    = {1574-9541},
+  doi     = {10.1016/j.ecoinf.2026.103927},
+  url     = {https://www.sciencedirect.com/science/article/pii/S1574954126003341}
+}
