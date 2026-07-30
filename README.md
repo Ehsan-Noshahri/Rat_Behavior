@@ -79,6 +79,4 @@ If you find this repository useful in your research, please consider citing the 
   pages   = {103927},
   year    = {2026},
   issn    = {1574-9541},
-  doi     = {10.1016/j.ecoinf.2026.103927},
-  url     = {https://www.sciencedirect.com/science/article/pii/S1574954126003341}
-}
+  doi     = {10.1016/j.ecoinf.2026.103927}}
