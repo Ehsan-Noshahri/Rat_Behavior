@@ -72,7 +72,8 @@ If you find this repository useful in your research, please consider citing the 
 ```bibtex
 @article{noshahri2026rodent,
   title   = {Classifying rodent behaviors one frame at a time: A CNN-based method},
-  author = {Ehsan Noshahri and Andres Molares-Ulloa and Carlota Fraga-Seijas and Alejandro Puente-Castro and Alvaro Rodriguez},
+  author = {Ehsan Noshahri and Andres Molares-Ulloa and Carlota Fraga-Seijas
+            and Alejandro Puente-Castro and Alvaro Rodriguez},
   journal = {Ecological Informatics},
   volume  = {97},
   pages   = {103927},
